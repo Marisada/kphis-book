@@ -5,3 +5,8 @@ multilingual = false
 src = "src"
 title = "KPHIS Tutorial Book"
 description = "How to use KPHIS."
+
+[output.html]
+git-repository-url = "https://github.com/Marisada/kphis-book/src/"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/Marisada/kphis-book/tree/main/src/{path}"
