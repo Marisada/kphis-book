@@ -1,0 +1,7 @@
+[book]
+authors = ["Marisada Pitaktham"]
+language = "th"
+multilingual = false
+src = "src"
+title = "KPHIS Tutorial Book"
+description = "How to use KPHIS."
