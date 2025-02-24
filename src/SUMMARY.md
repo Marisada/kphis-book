@@ -5,6 +5,8 @@
 # คู่มือการใข้งาน
 
 - [อุบัติเหตุและฉุกเฉิน (ER)](opd-er/README.md)
+    - [รายการผู้ป่วย ER](opd-er/order-list.md)
+    - [แฟ้มผู้ป่วย ER](opd-er/main.md)
     - [บันทึกการบริการผู้ป่วยฉุกเฉิน](opd-er/medical-history.md)
     - [บันทึกคำสั่งแพทย์ (Order & Progress Note)](opd-er/order.md)
     - [บันทึกปัญหาทางการพยาบาล (Focus List)](opd-er/focus-list.md)
