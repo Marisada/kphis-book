@@ -51,3 +51,8 @@
     - [ระบบการจัดทำเอกสาร และทดสอบการแก้ไข (Report Designer)](extra/report-designer.md)
     - [ระบบรูปภาพ](extra/image.md)
     - [ระบบข้อความ](extra/message.md)
+
+---
+[ทีมเขียนหนังสือ](contributors.md)
+[วิธีการเขียนต้นฉบับ](howto-contribute.md)
+[ภาษา Markdown บน mdBook](markdown.md)
