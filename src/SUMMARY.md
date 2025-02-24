@@ -52,7 +52,9 @@
     - [ระบบรูปภาพ](extra/image.md)
     - [ระบบข้อความ](extra/message.md)
 
+- [วิธีการเขียนต้นฉบับ](howto-contribute.md)
+    - [การใช้ GitHub เบื้องต้น](howto-github.md)
+    - [ภาษา Markdown บน mdBook](markdown.md)
+
 ---
-[ทีมเขียนหนังสือ](contributors.md)
-[วิธีการเขียนต้นฉบับ](howto-contribute.md)
-[ภาษา Markdown บน mdBook](markdown.md)
+[ผู้ให้การสนับสนุน](contributors.md)

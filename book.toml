@@ -7,6 +7,8 @@ title = "KPHIS Tutorial Book"
 description = "How to use KPHIS."
 
 [output.html]
+default-theme = "ayu"
+preferred-dark-theme = "ayu"
 git-repository-url = "https://github.com/Marisada/kphis-book"
 git-repository-icon = "fa-github"
 edit-url-template = "https://github.com/Marisada/kphis-book/tree/main/{path}"
