@@ -1,19 +1,42 @@
 # แฟ้มผู้ป่วย ER
 
-## การแก้ไขสถานะผู้ป่วย
-![New OPD-ER Order](images/opd-er-main-top.webp)
-ท่านสามารถแก้ไข `Visit`, `เตียง`, `สถานะ` และ `Note` ตามต้องการ
+## ข้อมูลแฟ้มผู้ป่วย
+![OPD-ER Order Top](images/opd-er-main-top.webp)
+ท่านสามารถแก้ไข `Visit`, `เตียง`, `สถานะ` และ `Note` ได้ตามต้องการ
 
 กรณี Discharge แล้ว
-![New OPD-ER Order](images/opd-er-main-top-discharged.webp)
-ท่านจะสามารถบันทึก `ประเภทการ Discharge` และ `วันที่จำหน่าย` เพิ่มเติมได้
+<!-- ANCHOR: opd-er-discharge -->
+![OPD-ER Order Top Discharged](images/opd-er-main-top-discharged.webp)
+ให้บันทึก `ประเภทการ Discharge` และ `วันที่จำหน่าย` เพิ่มเติม
 
 เมื่อแก้ไขเรียบร้อยแล้ว กดปุ่ม `บันทึก`
 <div class="warning">
 
-หาก Discharge แล้ว  
-ท่านสามารถคลิกที่ <i class="fa fa-clock-o"></i> เพื่อเลือกวันที่และเวลาปัจจุบัน
+ท่านสามารถคลิกที่ <i class="fa fa-clock-o"></i>  
+เพื่อเลือกวันที่และเวลาปัจจุบัน
 </div>
 
+<!-- ANCHOR_END: opd-er-discharge -->
+
+## สถานะผู้ป่วย
+![OPD-ER Status](images/opd-er-status.webp)
+
+เมื่อแก้ไขเรียบร้อยแล้ว กดปุ่ม `บันทึก`
+
 ## ระบบงานย่อยในแฟ้มผู้ป่วย
-![New OPD-ER Order](images/opd-er-main-tab.webp)
+![OPD-ER Order Tab](images/opd-er-main-tab.webp)
+* [ประวัติผู้ป่วย](medical-history.md) : แสดงประวัติใน HOSxP, บันทึก Trauma care (ABCDE)
+* [Order](order.md) : บันทึก Order และ Progress Note
+* [Vital Sign](../shared/vital-sign.md) : บันทึก Vital Sign, แสดงกราฟสัญญาณชีพ
+* [I/O](../shared/io.md) : บันทึกสมดุลน้ำ
+* [Nursing Progress Note](../shared/focus-note.md) : แสดงความก้าวหน้าทางการพยาบาล, [บันทึกปัญหาทางการพยาบาล (Focus List)](../shared/focus-list.md) และ [บันทึกความก้าวหน้าทางการพยาบาล (Nurse Note)](..shared/focus-note.md)
+* [Nurse Planning](../shared/index-plan.md) : บันทึกแผนและกิจกรรมทางการพยาบาล (Index Plan/Action)
+* [Lab](../shared/lab.md) : แสดงผลการตรวจทางห้องปฏิบัติการ จาก HOSxP
+* [X-Ray](../shared/out-source.md) : ไปสู่ระบบ PACs (โปรแกรมภายนอก, ถ้ามี)
+* [EKG](../shared/out-source.md) : ไปสู่ระบบบันทึก EKG (โปรแกรมภายนอก, ถ้ามี)
+* [Scan](../shared/out-source.md) : ไปสู่ระบบภาพ Scan (โปรแกรมภายนอก, ถ้ามี)
+* [ประวัติการสั่งยา](../shared/prescription-screen.md) : ระบบ Screen ใบสั่งยา (ประวัติการสั่งยาใน HOSxP)
+* [EMR](../shared/emr.md) : แสดงประวัติการรักษา (Electronic Medical Record: EMR)
+* [เอกสาร](document.md) : แสดงและจัดพิมพ์เอกสารทางการแพทย์
+* [ขอเปล](../shared/out-source.md) : ไปสู่ระบบขอเปล (โปรแกรมภายนอก, ถ้ามี)
+* [Antibiograms](../shared/antibiogram.md) : แสดงข้อมูลการดื้อยา (Antibiogram)
