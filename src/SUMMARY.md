@@ -9,6 +9,7 @@
     - [แฟ้มผู้ป่วย ER](opd-er/main.md)
     - [ประวัติผู้ป่วย ER](opd-er/medical-history.md)
     - [บันทึกคำสั่งแพทย์](opd-er/order.md)
+    - [ER Nurse Planning](opd-er/nurse-planning.md)
     - [จัดทำเอกสาร](opd-er/document.md)
     - [รอรับใบสั่งยา (เภสัชกรรม)](opd-er/order-pharmacy.md)
 
@@ -16,6 +17,7 @@
     - [รายการผู้ป่วยใน](ipd/search-patient.md)
     - [แฟ้มผู้ป่วยใน](ipd/main.md)
     - [Order ล่วงหน้า](ipd/pre-order.md)
+    - [IPD Nurse Planning](ipd/nurse-planning.md)
     - [บันทึกประวัติและตรวจร่างกายแรกรับ](ipd/admission-note-dr.md)
     - [ประเมินสภาพผู้ป่วยแรกรับและแบบแผนสุขภาพ](ipd/admission-note-nurse.md)
     - [บันทึกการทบทวนยา (Medical Reconciliation)](ipd/med-reconciliation.md)
