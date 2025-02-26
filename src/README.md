@@ -1,12 +1,9 @@
 # แนะนำ KPHIS
 
-KPHIS ([Facebook](https://www.facebook.com/KPHIS-101091131902046), [Gitlab](https://gitlab.kph.go.th/apichat/kphisdockerimages.git), [Hub](https://hub.docker.com/r/apichatthongngoen/kphis)) เป็นโปรแกรมระบบ IPD Paperless ที่พัฒนาโดย รพ.กำแพงเพชร เพื่อใช้งานร่วมกับโปรแกรม BMS HOSxP ในรูปแบบของโปรแกรมเสริม โดยมีลักษณะสำคัญ คือ
+KPHIS ([Facebook](https://www.facebook.com/KPHIS-101091131902046), [Gitlab](https://gitlab.kph.go.th/apichat/kphisdockerimages.git), [Docker Hub](https://hub.docker.com/r/apichatthongngoen/kphis)) เป็นโปรแกรมระบบ IPD Paperless ที่พัฒนาโดย รพ.กำแพงเพชร เพื่อใช้งานร่วมกับโปรแกรม BMS HOSxP ในรูปแบบของโปรแกรมเสริม โดยมีลักษณะสำคัญ คือ
 * KPHIS สามารถอ่านข้อมูลจากฐานข้อมูล HOSxP ได้ แต่จะไม่บันทึกข้อมูลลงในฐานข้อมูล HOSxP
 * หากลบระบบหรือฐานข้อมูล KPHIS จะไม่มีผลกระทบกับระบบ HOSxP 
 * ระบบงานเดิมที่ทำใน HOSxP ยังคงทำที่ HOSxP เช่นเดิม เช่น การเปิดสิทธิ, ปิดสิทธิ, Admit ผู้ป่วย, จำหน่ายผู้ป่วย, การบันทึกจำนวนยาและบริการ เป็นต้น
 * การเข้าสู่ระบบ KPHIS ใช้ชื่อและรหัสผ่านเช่นเดียวกับ HOSxP
 * KPHIS ทำงานบน Web Browser ทำให้สามารถใช้โปรแกรมบนเครื่องคอมพิวเตอร์ทุกระบบปฏิบัติการ (Windows, Linux, MacOS) รวมถึงสามารถใช้งานบน Smart phone และ Tablet ได้
 * เนื่องการใช้งาน KPHIS ต้องใช้งานร่วมกับ HOSxP เสมอ ดังนั้น ในระบบงานที่ต้องบันทึกข้อมูลใน HOSxP ร่วมด้วย แนะนำให้เปิด 2 หน้าจอในการใช้งาน
-
-## ระบบงานทั้งหมด ได้แก่
-{{#include SUMMARY.md:7:}}

@@ -1,0 +1,12 @@
+# ระบบงานร่วม
+รวมระบบงานที่มีหน้าต่างการใช้งานและระบบงานเหมือนกัน ทั้งในงาน [อุบัติเหตุและฉุกเฉิน (ER)](../opd-er/index.html) และงาน [ผู้ป่วยใน (IPD)](../ipd/index.html)
+* [บันทึกสัญญาณชีพ (Vital Sign)](vital-sign.md)
+* [บันทึกปัญหาทางการพยาบาล (Focus List)](focus-list.md)
+* [บันทึกความก้าวหน้าทางการพยาบาล (Nurse Note)](focus-note.md)
+* [บันทึกแผนและกิจกรรมทางการพยาบาล (Index Plan/Action)](index-plan.md)
+* [บันทึกสมดุลน้ำ (Intake-Output: I/O)](io.md)
+* [เวชระเบียนอิเล็กทรอนิกส์ (Electronic Medical Record: EMR)](emr.md)
+* [ระบบ Screen ใบสั่งยา และค้นประวัติการสั่งยาใน HOSxP](prescription-screen.md)
+* [แสดงผลการตรวจทางห้องปฏิบัติการ จาก HOSxP](lab.md)
+* [ทางลัดสู่ระบบภายนอก](out-source.md)
+* [เอกสาร Antibiogram](antibiogram.md)
