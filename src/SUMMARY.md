@@ -1,9 +1,8 @@
 # Summary
 [แนะนำ KPHIS](README.md)
-[การใช้งานทั่วไป](general.md)
 
 # คู่มือการใข้งาน
-
+- [การใช้งานทั่วไป](general.md)
 - [อุบัติเหตุและฉุกเฉิน (ER)](opd-er/README.md)
     - [รายการผู้ป่วย ER](opd-er/order-list.md)
     - [แฟ้มผู้ป่วย ER](opd-er/main.md)
@@ -16,6 +15,7 @@
 - [ผู้ป่วยใน (IPD)](ipd/README.md)
     - [รายการผู้ป่วยใน](ipd/search-patient.md)
     - [แฟ้มผู้ป่วยใน](ipd/main.md)
+    - [รอ Admit](ipd/pre-admit.md)
     - [Order ล่วงหน้า](ipd/pre-order.md)
     - [IPD Nurse Planning](ipd/nurse-planning.md)
     - [บันทึกประวัติและตรวจร่างกายแรกรับ](ipd/admission-note-dr.md)
@@ -41,17 +41,17 @@
     - [เอกสาร Antibiogram](shared/antibiogram.md)
 
 - [ระบบงานอื่นๆ](other/README.md)
-    - [ระบบชุดข้อมูลทางการพยาบาล (Template Nurse)](other/template-nurse.md)
+    - [Template การบันทึกทางการพยาบาล (Focus Charting)](other/template-nurse.md)
     - [ระบบจัดการผู้ใช้งาน](other/user-list.md)
     - [ระบบจัดการบทบาทผู้ใช้งาน](other/permission-list.md)
 
 - [เพิ่มเติมจาก KPHIS ดั้งเดิม](extra/README.md)
-    - [ระบบการจัดทำเอกสาร และทดสอบการแก้ไข (Report Designer)](extra/report-designer.md)
+    - [ระบบออกแบบเอกสาร (Report Designer)](extra/report-designer.md)
     - [ระบบรูปภาพ](extra/image.md)
     - [ระบบข้อความ](extra/message.md)
 
 - [วิธีการเขียนต้นฉบับ](howto-contribute.md)
-    - [การใช้ GitHub เบื้องต้น](howto-github.md)
+    - [เตรียมพร้อมเขียนหนังสือ](howto-code.md)
     - [ภาษา Markdown บน mdBook](markdown.md)
 
 ---
