@@ -1,4 +1,5 @@
 # ระบบงานอื่นๆ
-* [ระบบชุดข้อมูลทางการพยาบาล (Template Nurse)](template-nurse.md) : เพิ่ม/แก้ไข/ลบ `กลุ่มอาการ (Group)`, `กลุ่มย่อย (Subgroup)`, `ปัญหา (Focus)`, `เป้าหมาย (Goal)`, `Intervention` และ `Daily Care` สำหรับใช้ในการเขียน [บันทึกปัญหาทางการพยาบาล (Focus List)](../shared/focus-list.md) และ [บันทึกความก้าวหน้าทางการพยาบาล (Nurse Note)](../shared/focus-note.md)
-* [ระบบจัดการผู้ใช้งาน](user-list.md) : กำหนด `บทบาท (Role)` (กลุ่มของ `สิทธิ (Permission)`) ให้กับ `ผู้ใช้งาน`
-* [ระบบจัดการบทบาทผู้ใช้งาน](permission-list.md) : กำหนด `สิทธิ (Permission)` ให้กับ `บทบาท (Role)`
+
+- [Template การบันทึกทางการพยาบาล (Focus Charting)](other/template-nurse.md) : สร้างแม่พิมพ์ (Template) การบันทึกทางการพยาบาล ในระบบ Focus Charting
+- [ระบบจัดการผู้ใช้งาน](other/user-list.md) : กำหนดบทบาท(`Role`) ให้กับผู้ใช้งาน
+- [ระบบจัดการบทบาทผู้ใช้งาน](other/permission-list.md) : กำหนดสิทธิ์(`User Permission`) ให้กับบทบาท(`Role`)
