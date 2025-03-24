@@ -43,4 +43,3 @@
         ท่านสามารถไป `เลือก` ภาพมาใช้ได้อีกครั้ง  
         ด้วย เมนู `Setting` <i class="fa fa-arrow-circle-right"></i> `Image Cache`
         </div>
-    
