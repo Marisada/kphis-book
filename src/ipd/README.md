@@ -69,11 +69,12 @@
 - [ทางลัดสู่ระบบภายนอก](shared/out-source.md)
 
 ### หลังจำหน่าย
+- [สรุป Chart](post-admit.md)
 - [บันทึกการสรุปเวชระเบียน (In-Patient Summary)](summary.md)
-- [จัดทำเอกสาร](ipd/document.md)
+- [จัดทำเอกสาร](document.md)
 
 ## การสร้างใบ Order ไว้ล่วงหน้า เพื่อ Admit ใน Visit อื่น
-- สร้าง [Order ล่วงหน้า](ipd/pre-order.md) ประเภท `Admit ล่วงหน้า`
+- สร้าง [Order ล่วงหน้า](pre-order.md) ประเภท `Admit ล่วงหน้า`
 - เมื่อถึงวันนัด ให้เปิด `Visit` ตามปกติ
 - ดำเนินการในระบบ [แรกรับ](#แรกรับ)
 - เลือกผู้ป่วย <i class="fa fa-arrow-circle-right"></i> กดปุ่ม [Order](order.md) <i class="fa fa-arrow-circle-right"></i> กดปุ่ม `เลือกใบ Order` <i class="fa fa-arrow-circle-right"></i> กดปุ่ม `ใช้งาน`

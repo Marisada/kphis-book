@@ -20,8 +20,8 @@
 - [บันทึกสัญญาณชีพ](../shared/vital-sign.md)
 - [บันทึกสมดุล (Intake-Output: I/O)](../shared/io.md)
 ### แพทย์ให้ Admit
-- บันทึก `Admit` ใน HOSxP
-- [ระบบงานผู้ป่วยใน (IPD)](../ipd/index.html)
+- [แรกรับ ผู้ป่วยใน](../ipd/index.html#แรกรับ)
+- [ระบบงานผู้ป่วยใน](../ipd/index.html)
 
 ### แพทย์ให้ Discharge ได้
 {{#include main.md:opd-er-discharge}}
