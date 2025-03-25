@@ -16,6 +16,7 @@
     - [รายการผู้ป่วยใน](ipd/search-patient.md)
     - [แฟ้มผู้ป่วยใน](ipd/main.md)
     - [รอ Admit](ipd/pre-admit.md)
+    - [สรุป Chart](ipd/post-admit.md)
     - [Order ล่วงหน้า](ipd/pre-order.md)
     - [IPD Nurse Planning](ipd/nurse-planning.md)
     - [บันทึกประวัติและตรวจร่างกายแรกรับ](ipd/admission-note-dr.md)
