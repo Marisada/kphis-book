@@ -2,8 +2,8 @@
 
 ## ระบบงานย่อยในแฟ้มผู้ป่วย
 ![IPD Order Tab](images/ipd-main-tab.webp)
-* [Med Reconciliation](med-reconciliation.md) : ทบทวนยาเดิมผู้ป่วย ทั้งจากข้อมูล HOSxP และบันทึกเพิ่มเองได้
-* [Order & Index](order.md) : บันทึก Order และ Progress Note
+* [Med Reconciliation](../shared/med-reconciliation.md) : ทบทวนยาเดิมผู้ป่วย ทั้งจากข้อมูล HOSxP และบันทึกเพิ่มเองได้
+* [Order & Index](../shared/order.md) : บันทึก Order และ Progress Note
 * [Vital Sign](../shared/vital-sign.md) : บันทึก Vital Sign, แสดงกราฟสัญญาณชีพ
 * [I/O](../shared/io.md) : บันทึกสมดุลน้ำ
 * [Nursing Progress Note](../shared/focus-note.md) : แสดงความก้าวหน้าทางการพยาบาล, [บันทึกปัญหาทางการพยาบาล (Focus List)](../shared/focus-list.md) และ [บันทึกความก้าวหน้าทางการพยาบาล (Nurse Note)](..shared/focus-note.md)

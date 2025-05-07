@@ -4,7 +4,7 @@
 
 ## กระบวนการบริการ
 - แพทย์/พยาบาล บันทึก [ประวัติผู้ป่วย ER](medical-history.md)
-- [บันทึกสัญญาณชีพ](../shared/vital-sign.md) หากมีการเปลี่ยนแปลง
+- [บันทึกสัญญาณชีพ](../shared/vital-sign.md)
 - แพทย์/พยาบาล บันทึกการให้บริการใน HOSxP
 - เภสัชกร [รอรับใบสั่งยา](order-pharmacy.md)
 - เภสัชกร บันทึกจ่ายยาใน HOSxP
@@ -16,9 +16,9 @@
 - [บันทึกคำสั่งแพทย์](order.md)
 - [บันทึกปัญหาทางการพยาบาล (Focus List)](../shared/focus-list.md)
 - [บันทึกความก้าวหน้าทางการพยาบาล (Nurse Note)](../shared/focus-note.md)
-- [บันทึกแผนและกิจกรรมทางการพยาบาล (Index Plan/Action)](../shared/index-plan.md)
-- [บันทึกสัญญาณชีพ](../shared/vital-sign.md)
-- [บันทึกสมดุล (Intake-Output: I/O)](../shared/io.md)
+- [บันทึกแผนและกิจกรรมทางการพยาบาล (Index Plan/Action)](../shared/index-plan.md) หรือบันทึกที่ [ER Nurse Planning](nurse-planning.md)
+- [บันทึกสัญญาณชีพ](../shared/vital-sign.md) หรือบันทึกที่ [ER Vital Sign](vital-sign.md)
+- [บันทึกสมดุลน้ำ (Intake-Output: I/O)](../shared/io.md)
 ### แพทย์ให้ Admit
 - [แรกรับ ผู้ป่วยใน](../ipd/index.html#แรกรับ)
 - [ระบบงานผู้ป่วยใน](../ipd/index.html)
