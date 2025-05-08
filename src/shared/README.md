@@ -1,5 +1,7 @@
 # ระบบงานร่วม
 รวมระบบงานที่มีหน้าต่างการใช้งานและระบบงานเหมือนกัน ทั้งในงาน [อุบัติเหตุและฉุกเฉิน (ER)](../opd-er/index.html) และงาน [ผู้ป่วยใน (IPD)](../ipd/index.html)
+* [บันทึกการทบทวนยา (Medical Reconciliation)](med-reconciliation.md)
+* [บันทึกคำสั่งแพทย์](order.md)
 * [บันทึกสัญญาณชีพ (Vital Sign)](vital-sign.md)
 * [บันทึกปัญหาทางการพยาบาล (Focus List)](focus-list.md)
 * [บันทึกความก้าวหน้าทางการพยาบาล (Nurse Note)](focus-note.md)

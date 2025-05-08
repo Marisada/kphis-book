@@ -52,12 +52,17 @@
 
 ## การจัดการข้อความ
 ![Message Messages](images/message-messages.webp)
-* <i class="fa fa-envelope"></i> สีแดง : ข้อความที่ `ยังไม่ได้อ่าน`
-* <i class="fa fa-envelope"></i> ไม่มีสี : ข้อความที่ `อ่านแล้ว`
-* ปุ่ม `GO` : ไปยัง URL ที่แนบ
-* ปุ่ม <i class="fa fa-reply"></i> : ตอบกลับ
-* ปุ่ม <i class="fa fa-check-circle-o"></i> : กำหนดว่า `อ่านแล้ว`
-* ปุ่ม <i class="fa fa-refresh"></i> More.. : โหลดข้อความเก่า
+* <i class="fa fa-envelope" style="color:red;"></i> : ข้อความที่ `ยังไม่ได้อ่าน`
+* <i class="fa fa-envelope"></i> : ข้อความที่ `อ่านแล้ว`
+* `GO` : ไปยัง URL ที่แนบ
+* <i class="fa fa-reply"></i> : ตอบกลับ
+* <i class="fa fa-check-circle-o"></i> : กำหนดว่า `อ่านแล้ว`
+
+ปุ่มด้านล่าง
+* <i class="fa fa-check-circle-o"></i> ทั้งหมด : กำหนดว่า `อ่านแล้ว` ทั้งหมดทุกหัวข้อ
+* <i class="fa fa-pencil"></i> รคส : เปิดหน้าต่าง ยืนยันการ รคส (สำหรับแพทย์)
+* <i class="fa fa-check-circle-o"></i> ประกาศ : กำหนดว่า `อ่านแล้ว` ทั้งหมดในหัวข้อ `ประกาศ`
+* <i class="fa fa-refresh"></i> ย้อนหลัง.. : โหลดข้อความเก่า
 
 <div class="warning">
 
