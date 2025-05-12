@@ -47,6 +47,8 @@
     - [ระบบจัดการผู้ใช้งาน](other/user-list.md)
     - [ระบบจัดการบทบาทผู้ใช้งาน](other/permission-list.md)
 
+- [เครื่องมือ](tool/README.md)
+    - [ตัวอย่างรายงาน](tool/document-preview.md)
 - [เพิ่มเติมจาก KPHIS ต้นฉบับ](extra/README.md)
     - [ระบบออกแบบเอกสาร (Report Designer)](extra/report-designer.md)
     - [ระบบรูปภาพ](extra/image.md)
