@@ -5,11 +5,11 @@
 - [การใช้งานทั่วไป](general.md)
 - [อุบัติเหตุและฉุกเฉิน (ER)](opd-er/README.md)
     - [รายการผู้ป่วย ER](opd-er/order-list.md)
+    - [แฟ้มผู้ป่วย ER](opd-er/main.md)
+    - [ประวัติผู้ป่วย ER](opd-er/medical-history.md)
     - [ER Vital Sign](opd-er/vital-sign.md)
     - [ER Nurse Planning](opd-er/nurse-planning.md)
     - [รอรับใบสั่งยา (เภสัชกรรม)](opd-er/order-pharmacy.md)
-    - [แฟ้มผู้ป่วย ER](opd-er/main.md)
-    - [ประวัติผู้ป่วย ER](opd-er/medical-history.md)
     - [จัดทำเอกสาร](opd-er/document.md)
 
 - [ผู้ป่วยใน (IPD)](ipd/README.md)
