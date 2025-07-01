@@ -12,7 +12,7 @@
 เมื่อแก้ไขเรียบร้อยแล้ว กดปุ่ม `บันทึก`
 <div class="warning">
 
-ท่านสามารถคลิกที่ <i class="fa fa-clock-o"></i>  
+ท่านสามารถคลิกที่ <i class="fa fa-clock-o" style="color:orange;"></i>  
 เพื่อเลือกวันที่และเวลาปัจจุบัน
 </div>
 

@@ -22,6 +22,6 @@
 
     ![New OPD-ER Order](images/modal-opd-er-order-new.webp)
 
-1. กดปุ่ม <i class="fa fa-search"></i> เพื่อค้นหา `visit` ที่ต้องการ, ระบุ `Note`, เลือก `เตียง` แล้วกดปุ่ม `บันทึก`
+1. กดปุ่ม <i class="fa fa-search" style="color:orange;"></i> เพื่อค้นหา `visit` ที่ต้องการ, ระบุ `Note`, เลือก `เตียง` แล้วกดปุ่ม `บันทึก`
 1. คลิกที่ ผู้ป่วยที่ต้องการ เพื่อเข้าสู่ [แฟ้มผู้ป่วย ER](main.md)
 <!-- ANCHOR_END: opd-er-order-new -->

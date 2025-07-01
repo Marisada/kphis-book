@@ -24,7 +24,7 @@
 
     ![Pre Order New](images/pre-order-new.webp)
 
-    * กดปุ่ม <i class="fa fa-search"></i> เพื่อค้นหาผู้ป่วยที่ต้องการ
+    * กดปุ่ม <i class="fa fa-search" style="color:orange;"></i> เพื่อค้นหาผู้ป่วยที่ต้องการ
     * เลือกวันนัด `Admit` (ประเภท `Admit ในวัน` จะระบุเป็น `วันนี้` โดยอัตโนมัติ)
     * กดปุ่ม `บันทึก`
 

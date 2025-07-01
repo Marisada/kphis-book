@@ -10,10 +10,10 @@
 * `รอบการ Update` : กำหนดเวลา ที่ระบบจะค้นหาซ้ำ เช่น ค้นหาทุก 1 นาที เป็นต้น
 * `ยา/สารน้ำ/Nurse's Order ที่ยังไม่ได้ตรวจสอบ` : แสดงเฉพาะ Order ที่เป็น ยา หรือสารน้ำ หรือสั่งโดยพยาบาล ที่เภสัชกรยังไม่ได้รับรายการ
 * `HN, AN, ชื่อ-สกุล` : แสดงเฉพาะผู้ป่วยที่กำหนด ด้วยการกรอก HN, AN หรือชื่อ-สกุล ผู้ป่วย อย่างใดอย่างหนึ่ง
-* <i class="fa fa-search"></i> ค้นหา : สั่งการค้นหา
-* <i class="fa fa-volume-off"></i>x : เสียงเรียกถูกปิดไว้
-* <i class="fa fa-volume-up"></i> : เสียงเรียกพร้อมใช้งาน
-* <i class="fa fa-play"></i> Test : ทดสอบเสียงเรียก
+* <i class="fa fa-search" style="color:orange;"></i> `ค้นหา` : สั่งการค้นหา
+* <i class="fa fa-volume-off" style="color:orange;"></i>`x` : เสียงเรียกถูกปิดไว้
+* <i class="fa fa-volume-up" style="color:orange;"></i> : เสียงเรียกพร้อมใช้งาน
+* <i class="fa fa-play" style="color:orange;"></i> `Test` : ทดสอบเสียงเรียก
 
 ![IPD Order Pharmacy Head](images/ipd-order-pharmacy-data.webp)
 
@@ -22,15 +22,15 @@
     1. `เวลา Order` น้อยที่สุด - มากที่สุด ในช่วง `วันที่ Order ตั้งแต่ .. ถึงวันที่ ..` ที่กำหนด
     2. เป็นรายการยา/สารน้ำ หรือไม่
     3. `Priority` : แสดงสถานะ และหมายเหตุ ยา Stat หรือ Home-Med (ถ้ามี)
-        - <i class="fa fa-envelope-o"></i> : จำนวน Order ที่เภสัชกรยังไม่รับรายการ
-        - <i class="fa fa-pencil-square-o"></i> : จำนวน Order ที่เภสัชกรรับรายการแล้ว
-        - <i class="fa fa-check-circle-o"></i> : จำนวน Order ที่เภสัชกรตรวจสอบแล้ว
+        - <i class="fa fa-envelope-o" style="color:orange;"></i> : จำนวน Order ที่เภสัชกรยังไม่รับรายการ
+        - <i class="fa fa-pencil-square-o" style="color:orange;"></i> : จำนวน Order ที่เภสัชกรรับรายการแล้ว
+        - <i class="fa fa-check-circle-o" style="color:orange;"></i> : จำนวน Order ที่เภสัชกรตรวจสอบแล้ว
 
     <div class="warning">
 
-    Stat Order ที่เภสัชกรยังไม่รับรายการ จะแสดงแถบสีชมพู เพื่อเตือนเภสัชกร  
-    Order อื่น ที่เภสัชกรยังไม่รับรายการ จะแสดงแถบสีเหลือง  
-    Order ที่เภสัชกรรับรายการแล้ว (รอตรวจสอบ) จะแสดงแถบสีฟ้า  
+    Stat Order ที่เภสัชกรยังไม่รับรายการ จะแสดงแถบสี`ชมพู` เพื่อเตือนเภสัชกร  
+    Order อื่น ที่เภสัชกรยังไม่รับรายการ จะแสดงแถบสี`เหลือง`  
+    Order ที่เภสัชกรรับรายการแล้ว (รอตรวจสอบ) จะแสดงแถบสี`ฟ้า`  
     Order ที่เภสัชกรตรวจสอบแล้ว จะไม่มีแถบสี 
     </div>
 
