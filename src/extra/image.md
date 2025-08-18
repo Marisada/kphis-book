@@ -25,7 +25,7 @@
 
     ![Image Box Choose](images/image-box-choose.webp)
 
-* คลิกรูปที่ต้องการ จะมีเครื่องหมาย <i class="fa fa-check-circle-o"></i> สีแดง  
+* คลิกรูปที่ต้องการ จะมีเครื่องหมาย <i class="fa fa-check-circle-o" style="color:red;"></i>  
 คลิกที่รูปอีกครั้ง จะเป็นการยกเลิกการเลือก  
 หรือกดปุ่ม `ทั้งหมด` เพื่อเลือกรูปทั้งหมดในกล่อง
 * หากเลือกเพียงภาพเดียว ท่านสามารถเพิ่มหรือแก้ไข `ข้อความ` ประกอบภาพได้
@@ -36,6 +36,10 @@
     - `สำเนา` ภาพที่เลือก เพื่อ `วาง` ในกล่องรูปภาพอื่นได้
 
         ![Image Box Paste](images/image-box-paste.webp)
+
+    - <i class="fa fa-file-pdf-o" style="color:orange;"></i> `Full` : แสดงตัวอย่างรายงาน PDF แบบ 1 ภาพ ใน 1 หน้า A4
+    - <i class="fa fa-file-pdf-o" style="color:orange;"></i> `Half` : แสดงตัวอย่างรายงาน PDF แบบ 2 ภาพ (บน-ล่าง) ใน 1 หน้า A4
+    - <i class="fa fa-file-pdf-o" style="color:orange;"></i> `2-Cols` : แสดงตัวอย่างรายงาน PDF แบบ 2 Columns ใน 1 หน้า A4
     - `ลบ` ภาพที่เลือก ออกจากกล่อง
         <div class="warning">
 
