@@ -14,7 +14,7 @@
 
 ## การใช้งานระบบต่างๆ
 ![Info page](images/info.webp)
-ประกอบด้วยเมนูย่อย ได้แก่ `แพทย์`,`พยาบาล`,`เภสัชกร`,`อื่นๆ`,`Setting`,`ข้อความ` และ `ผู้ใช้งาน`
+ประกอบด้วยเมนูย่อย ได้แก่ `แพทย์`,`พยาบาล`,`เภสัชกร`,`อื่นๆ`,`Setting`,`ข้อความ`, `รคส` และ `ผู้ใช้งาน`
 <!-- ANCHOR: service-visibility -->
 <div class="warning">
 
@@ -85,6 +85,9 @@
 
 ### เมนู <i class="fa fa-envelope"></i>
 [ระบบข้อความ](extra/message.md)
+
+### เมนู <i class="fa fa-pencil"></i>
+[ระบบจัดการ รคส](extra/order-as.md)
 
 ### เมนู `ชื่อผู้ใช้งาน`  
 ![User Menu](images/menu-user.webp)
