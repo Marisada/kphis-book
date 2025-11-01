@@ -54,6 +54,7 @@
 - [เพิ่มเติมจาก KPHIS ต้นฉบับ](extra/README.md)
     - [ระบบออกแบบเอกสาร (Report Designer)](extra/report-designer.md)
     - [ระบบรูปภาพ](extra/image.md)
+    - [ระบบจัดการ รคส](extra/order-as.md)
     - [ระบบข้อความ](extra/message.md)
     - [ระบบทบทวนเวชระเบียนผู้ป่วยใน (IPD-MRA)](extra/ipd-mra.md)
 
