@@ -10,6 +10,7 @@
 
 เปิดจากเมนู `แพทย์`
 ![IPD Search Patient Doctor](images/ipd-search-patient-doctor.webp)
+
 ผลการค้นหา จะแสดงทางลัดไป..
 * [แฟ้มผู้ป่วย IPD](main.md)
 * [บันทึกประวัติและตรวจร่างกายแรกรับ](admission-note-dr.md)
@@ -17,6 +18,7 @@
 
 เปิดจากเมนู `พยาบาล`
 ![IPD Search Patient Nurse](images/ipd-search-patient-nurse.webp)
+
 ผลการค้นหา จะแสดงทางลัดไป..
 * [แฟ้มผู้ป่วย IPD](main.md)
 * [บันทึกประวัติและตรวจร่างกายแรกรับ](admission-note-dr.md)
@@ -24,11 +26,13 @@
 
 เปิดจากเมนู `เภสัชกร`
 ![IPD Search Patient Pharmacist](images/ipd-search-patient-pharmacist.webp)
+
 ผลการค้นหา จะแสดงทางลัดไป..
 * [แฟ้มผู้ป่วย IPD](main.md)
 
 เปิดจากเมนู `อื่นๆ`
 ![IPD Search Patient Other](images/ipd-search-patient-other.webp)
+
 ผลการค้นหา จะแสดงทางลัดไป..
 * [แฟ้มผู้ป่วย IPD](main.md)
 

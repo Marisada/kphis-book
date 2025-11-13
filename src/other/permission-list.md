@@ -1,6 +1,7 @@
 # ระบบจัดการบทบาทผู้ใช้งาน
 
 ![User Permission Head](images/user-permission-head.webp)
+
 ตัวกรองในการค้นหา ได้แก่
 * `Role` : แสดงเฉพาะ `Role` ที่ต้องการ
 * `Permission` : แสดงเฉพาะ `User Permission` ที่ต้องการ
@@ -23,6 +24,7 @@
 * คลิกที่รายการในตาราง หรือผังต้นไม้ เพื่อทำการแก้ไข
 
 ![User Permission Edit](images/user-permission-edit.webp)
+
 * `Role` : สำหรับแก้ไข ชื่อ `Role`
 * `Role Description` : สำหรับแก้ไข ชื่อแสดงของ `Role`
 * `Parent Role` : สำหรับแก้ไข `Parent role`

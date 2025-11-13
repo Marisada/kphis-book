@@ -16,7 +16,9 @@ KPHIS จัดระบบการบันทึกทางการพย�
     * `ระบุชื่อ` : เพื่อแบ่งกลุ่มอาการ เป็นกลุ่มย่อย (Subgroup)
 
     ![Template Nurse Subgroup](images/template-nurse-subgroup-start.webp)
+    
     ![Template Nurse Subgroup Always](images/template-nurse-subgroup-always.webp)
+
     <div class="warning">
 
     ประเภท `ไม่ระบุ(แสดงเสมอ)` ช่วยให้ท่านสามารถเลือก `ปัญหา (Focus)` + `เป้าหมาย (Goal)` + `Intervention` ได้โดยอัตโนมัติ ในทุกๆ `ปัญหา (Focus)` ที่ตรงกับ `กลุ่มอาการ (Group)` 
@@ -32,8 +34,11 @@ KPHIS จัดระบบการบันทึกทางการพย�
 1. ในแต่ละ `กลุ่มอาการย่อย (Subgroup)` จะประกอบไปด้วย `ปัญหา (Focus)` + `เป้าหมาย (Goal)` + `Intervention` ประจำกลุ่มย่อย
 
     ![Template Nurse Focus](images/template-nurse-focus.webp)
+
     ![Template Nurse Goal](images/template-nurse-goal.webp)
+
     ![Template Nurse Intvt](images/template-nurse-intvt.webp)
+
 1. `Daily Care` จะแสดงตลอดเวลา ไม่เกี่ยวข้องกับ `กลุ่มอาการ (Group)`, `กลุ่มอาการย่อย (Subgroup)`, `ปัญหา (Focus)`, `เป้าหมาย (Goal)` หรือ `Intervention`
 
 ## การเพิ่ม หรือแก้ไข
@@ -44,8 +49,13 @@ KPHIS จัดระบบการบันทึกทางการพย�
 * `Delete` ลบรายการ (หากถูกใช้งานแล้ว จะไม่สามารถลบได้)
 
     ![Template Nurse Group Edit](images/template-nurse-group-edit.webp)
+
     ![Template Nurse Subgroup Edit](images/template-nurse-subgroup-edit.webp)
+
     ![Template Nurse Focus Edit](images/template-nurse-focus-edit.webp)
+
     ![Template Nurse Goal Edit](images/template-nurse-goal-edit.webp)
+
     ![Template Nurse Intvt Edit](images/template-nurse-intvt-edit.webp)
+
     ![Template Nurse Dlc Edit](images/template-nurse-dlc-edit.webp)
