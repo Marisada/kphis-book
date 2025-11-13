@@ -2,6 +2,7 @@
 
 ## การเข้าสู่ระบบ
 ![Index page](images/login.webp)
+
 1. กรอก `username` และ `password` ด้วยชื่อและรหัสผ่านเดียวกับการเข้าใช้งาน HOSxP
 1. กดปุ่ม `เข้าสู่ระบบ`
 
@@ -14,6 +15,7 @@
 
 ## การใช้งานระบบต่างๆ
 ![Info page](images/info.webp)
+
 ประกอบด้วยเมนูย่อย ได้แก่ `แพทย์`,`พยาบาล`,`เภสัชกร`,`อื่นๆ`,`Setting`,`ข้อความ`, `รคส` และ `ผู้ใช้งาน`
 <!-- ANCHOR: service-visibility -->
 <div class="warning">
@@ -27,6 +29,7 @@
 
 ### เมนูเจ้าหน้าที่ `แพทย์`
 ![Doctor Menu](images/menu-doctor.webp)
+
 #### IPD
 * [รายการผู้ป่วยใน](ipd/search-patient.md) : แสดงรายการผู้ป่วยใน ที่ยังไม่จำหน่าย โดยจำแนกตาม `แผนก`, [passcode](ipd/search-patient.html#ward-passcode), `แพทย์เจ้าของไข้`, `แพทย์ผู้ตอบ Consult` และ `HN, AN, ชื่อ-สกุล` ผู้ป่วย
 * [รอ Admit](ipd/pre-admit.md) : แสดงรายการผู้ป่วยที่ `รอ Admit` หรือถูก `ยกเลิก Admit` แล้ว โดยจำแนกตาม `ประเภท`, `แพทย์เจ้าของไข้` และ `HN, AN, ชื่อ-สกุล` ผู้ป่วย
@@ -38,6 +41,7 @@
 
 ### เมนูเจ้าหน้าที่ `พยาบาล`
 ![Nurse Menu](images/menu-nurse.webp)
+
 #### IPD
 * [รายการผู้ป่วยใน](ipd/search-patient.md) : แสดงรายการผู้ป่วยใน ที่ยังไม่จำหน่าย โดยจำแนกตาม `แผนก`, [passcode](ipd/search-patient.html#ward-passcode), `แพทย์เจ้าของไข้`, และ `HN, AN, ชื่อ-สกุล` ผู้ป่วย
 * [รอ Admit](ipd/pre-admit.md) : แสดงรายการผู้ป่วยที่ `รอ Admit` หรือถูก `ยกเลิก Admit` แล้ว โดยจำแนกตาม `ประเภท`, `แพทย์เจ้าของไข้` และ `HN, AN, ชื่อ-สกุล` ผู้ป่วย
@@ -53,6 +57,7 @@
 
 ### เมนูเจ้าหน้าที่ `เภสัชกร` 
 ![Pharm Menu](images/menu-pharm.webp)
+
 * [Screen ใบสั่งยา](shared/prescription-screen.md) : โปรแกรม Screen ใบสั่งยา ซึ่งสามารถแสดง การแพ้ยา, Drug Interaction, แจ้งเตือนการใช้ยาซ้ำซ้อน รวมถึง แสดงประวัติผู้ป่วยเรียงตามใบสั่งยา และประวัติผลการตรวจทางห้องปฏิบัติการที่สำคัญ
 #### IPD
 * [IPD Order](ipd/order-pharmacy.md) : แสดงรายการใบสั่งยาผู้ป่วยใน โดยสามารถ Update อัตโนมัติ พร้อมเสียงเตือน โดยจำแนกตาม `แผนก`, `แพทย์เจ้าของไข้`, `ช่วงวันที่ Order` และ `HN, AN, ชื่อ-สกุล` ผู้ป่วย
@@ -66,6 +71,7 @@
 
 ### เมนูเจ้าหน้าที่ `อื่นๆ`  
 ![Other Menu](images/menu-other.webp)
+
 #### IPD
 * [รายการผู้ป่วยใน](ipd/search-patient.md) : แสดงรายการผู้ป่วยใน ที่ยังไม่จำหน่าย โดยจำแนกตาม `แผนก`, [passcode](ipd/search-patient.html#ward-passcode), `แพทย์เจ้าของไข้` และ `HN, AN, ชื่อ-สกุล` ผู้ป่วย
 * [รอ Admit](ipd/pre-admit.md) : แสดงรายการผู้ป่วยที่ `รอ Admit` หรือถูก `ยกเลิก Admit` แล้ว โดยจำแนกตาม `ประเภท`, `แพทย์เจ้าของไข้` และ `HN, AN, ชื่อ-สกุล` ผู้ป่วย
@@ -76,6 +82,7 @@
 
 ### เมนู `Setting` 
 ![Setting Menu](images/menu-setting.webp)
+
 * [Template Nurse Note](other/template-nurse.md) : สร้าง Template สำหรับการบันทึกทางการพยาบาล (Focus Charting) ตามระบบ Assessment Intervention Evaluation (AIE)
 * [Template D/C Plan](other/template-discharge-plan.md) : สร้าง Template สำหรับการบันทึก Discharge Plan แยกตามการวินิจฉัย
 * [จัดการผู้ใช้งาน](other/user-list.md) : แสดงรายการ `ผู้ใช้งาน` จาก HOSxP และสามารถกำหนด `บทบาท (Role)` ให้กับผู้ใช้งานได้
@@ -91,6 +98,7 @@
 
 ### เมนู `ชื่อผู้ใช้งาน`  
 ![User Menu](images/menu-user.webp)
+
 * `ROLES` : แสดงบทบาทผู้ใช้งาน
 * `Light|Dark|Auto` : เปลี่ยน Theme ของโปรแกรม เป็นแบบ `โทนสีขาว`,`โทนสีดำ`,`ตาม Browser กำหนด`
 * `Wide Screen` : ตั้งค่าการแสดงในจอกว้าง (> 1,750 pixel) สำหรับตารางที่สามารถแสดงในรูปแบบการ์ดผู้ป่วยได้ ให้แสดงแบบ ตาราง (`Table`) หรือ การ์ดผู้ป่วย (`Card`)

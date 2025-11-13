@@ -2,14 +2,17 @@
 
 ## ประวัติผู้ป่วย
 ![OPD-ER Medical History Hx](images/opd-er-medical-history-hx.webp)
+
 แสดงข้อมูลสัญญาณชีพ จากการ[บันทึกสัญญาณชีพ (Vital Sign)](../shared/vital-sign.md) ครั้งแรกของ visit นี้ ใน KPHIS 
 
 ## ตรวจร่างกาย
 ![OPD-ER Medical History Pe](images/opd-er-medical-history-pe.webp)
+
 แสดงข้อมูลการตรวจร่างกายจาก HOSxP (หัวข้อ NOTE หมายถึงข้อมูลที่บันทึกใน PE Text ของ HOSxP)
 
 ## Trauma
 ![OPD-ER Medical History Trauma](images/opd-er-medical-history-trauma.webp)
+
 บันทึกข้อมูลอุบัติเหตุ ตามหลัก ABCDE `โดยแพทย์`
 - <i class="fa fa-eye" style="color:orange;"></i> : เปิด/ปิด การแสดงผล
 - <i class="fa fa-save" style="color:orange;"></i> `Save` : บันทึก
@@ -17,10 +20,12 @@
 
 ## Triage
 ![OPD-ER Medical History Triage](images/opd-er-medical-history-triage.webp)
+
 แสดงข้อมูลการคัดกรองผู้ป่วยฉุกเฉินจาก HOSxP
 
 ## ประวัติการแพ้ยา
 ![OPD-ER Medical History Allergy](images/opd-er-medical-history-allergy.webp)
+
 บันทึกข้อมูลการแพ้ยา ที่ซักถามได้ในห้องฉุกเฉิน
 - <i class="fa fa-eye" style="color:orange;"></i> : เปิด/ปิด การแสดงผล
 - <i class="fa fa-plus" style="color:orange;"></i> : เพิ่มรายการแพ้ยา
@@ -30,6 +35,7 @@
 
 ## Screening
 ![OPD-ER Medical History Screen](images/opd-er-medical-history-screen.webp)
+
 บันทึกการจัดประเภท และเวลารับบริการ
 - <i class="fa fa-clock-o" style="color:orange;"></i> : ใช้เวลาปัจจุบัน
 - <i class="fa fa-save" style="color:orange;"></i> `Save` : บันทึก
@@ -37,6 +43,7 @@
 
 ## Consult
 ![OPD-ER Medical History Consult](images/opd-er-medical-history-consult.webp)
+
 บันทึกการปรึกษาจากห้องฉุกเฉิน
 - <i class="fa fa-eye" style="color:orange;"></i> : เปิด/ปิด การแสดงผล
 - <i class="fa fa-plus" style="color:orange;"></i> : เพิ่มรายการแพ้ยา
@@ -47,6 +54,7 @@
 
 ## Set FT
 ![OPD-ER Medical History Set-FT](images/opd-er-medical-history-set-ft.webp)
+
 บันทึกการประสานงาน Set Fast Track
 - <i class="fa fa-eye" style="color:orange;"></i> : เปิด/ปิด การแสดงผล
 - <i class="fa fa-clock-o" style="color:orange;"></i> : ใช้เวลาปัจจุบัน

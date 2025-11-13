@@ -11,6 +11,7 @@ Discharge Plan ตามหลัก `D METHOD` ได้แก่การบ�
 2. บันทึกในระบบ [บันทึกแผนการจำหน่าย (Discharge Plan)](shared/discharge-plan.md) โดยสร้าง Template ดังนี้
 ## Diagnosis
 ![Template D/C Plan Dx](images/template-dc-plan-dx.webp)
+
 สำหรับบันทึกคำแนะนำในส่วนต่าง ๆ `แยกรายโรค` ประกอบด้วย
 - D: Diagnosis: ชื่อโรคที่เจ็บป่วย
 - D: Diagnosis: ความรู้เกี่ยวกับโรค
@@ -19,18 +20,22 @@ Discharge Plan ตามหลัก `D METHOD` ได้แก่การบ�
 
 ## Medication
 ![Template D/C Plan Med](images/template-dc-plan-med.webp)
+
 สำหรับสร้างตัวเลือก เพื่อใช้ร่วมกัน `ทุกโรค`
 
 ## Environment
 ![Template D/C Plan Env](images/template-dc-plan-env.webp)
+
 สำหรับสร้างตัวเลือก เพื่อใช้ร่วมกัน `ทุกโรค`
 
 ## Treatment
 ![Template D/C Plan Tx](images/template-dc-plan-tx.webp)
+
 สำหรับสร้างตัวเลือก เพื่อใช้ร่วมกัน `ทุกโรค`
 
 ## Medicine
 ![Template D/C Plan Diet](images/template-dc-plan-diet.webp)
+
 สำหรับสร้างตัวเลือก เพื่อใช้ร่วมกัน `ทุกโรค`
 
 ## การเพิ่ม หรือแก้ไข
@@ -40,7 +45,11 @@ Discharge Plan ตามหลัก `D METHOD` ได้แก่การบ�
 * `Delete` ลบรายการ (หากถูกใช้งานแล้ว จะไม่สามารถลบได้)
 
     ![Template D/C Plan Dx Edit](images/template-dc-plan-dx-edit.webp)
+
     ![Template D/C Plan Med Edit](images/template-dc-plan-med-edit.webp)
+
     ![Template D/C Plan Env Edit](images/template-dc-plan-env-edit.webp)
+
     ![Template D/C Plan Tx Edit](images/template-dc-plan-tx-edit.webp)
+    
     ![Template D/C Plan Diet Edit](images/template-dc-plan-diet-edit.webp)

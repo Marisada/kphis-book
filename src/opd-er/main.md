@@ -2,11 +2,13 @@
 
 ## ข้อมูลแฟ้มผู้ป่วย
 ![OPD-ER Order Top](images/opd-er-main-top.webp)
+
 ท่านสามารถแก้ไข `Visit`, `เตียง`, `สถานะ` และ `Note` ได้ตามต้องการ
 
 กรณี Discharge แล้ว
 <!-- ANCHOR: opd-er-discharge -->
 ![OPD-ER Order Top Discharged](images/opd-er-main-top-discharged.webp)
+
 ให้บันทึก `ประเภทการ Discharge` และ `วันที่จำหน่าย` เพิ่มเติม
 
 เมื่อแก้ไขเรียบร้อยแล้ว กดปุ่ม `บันทึก`

@@ -4,6 +4,7 @@
 
 ## เพิ่มเอกสาร
 ![IPD Document New](images/ipd-document-new.webp)
+
 `เพิ่มเอกสาร` : สำหรับเพิ่มเอกสาร ได้แก่
 1. การประเมินสภาพผู้ป่วยแรกรับและแบบแผนสุขภาพ
 1. แบบบันทึกการรับใหม่ผู้ป่วยใน
@@ -13,12 +14,14 @@
 
 ## เอกสาร Scan
 ![IPD Document Scan](images/ipd-document-scan.webp)
+
 `เอกสาร Scan` : สำหรับเพิ่มรูปภาพจากการ Scan แยกตามประเภทเอกสาร
 
 - <i class="fa fa-plus" style="color:orange;"></i> `เพิ่มเอกสาร Scan` : เลือกประเภทเอกสารที่ต้องการ
 
 ## รวมเอกสาร
 ![IPD Document All](images/ipd-document-all.webp)
+
 `รวมเอกสาร` : สำหรับพิมพ์เอกสารทุกประเภทในระบบ รวมถึง ใบปะหน้า โดยมีสัญลักษณ์ ได้แก่
 
 - <i class="fa fa-check-square" style="color:orange;"></i> หรือ <i class="fa fa-check-circle" style="color:orange;"></i> : รายการนี้ มีรายงาน สามารถคลิกได้ที่ปุ่ม <i class="fa fa-print" style="color:orange;"></i> `PDF` เพื่อแสดง [ตัวอย่างรายงาน](../tool/document-preview.md)

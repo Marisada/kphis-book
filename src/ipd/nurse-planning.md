@@ -26,6 +26,7 @@
 </div>
 
 ![IPD Nurse Planning Data](images/ipd-nurse-planning-data.webp)
+
 ระบบ จะแสดงรายการ Plan ตามเงื่อนไขที่เลือกไว้
 
 คลิกรายการที่ต้องการ ระบบจะแสดงหน้าต่าง Plan/Action เช่นเดียวกับในระบบ [บันทึกแผนและกิจกรรมทางการพยาบาล (Index Plan/Action)](../shared/index-plan.md) ให้ท่าน สามารถดำเนินการเพิ่มหรือแก้ไข Plan/Action ต่อไป
