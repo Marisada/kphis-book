@@ -17,7 +17,9 @@
     - <i class="fa fa-download" style="color:orange;"></i> `ดึงข้อมูลจาก HOSxP` : นำเข้าสัญญาณชีพแรกรับ จาก HOSxP
     - <i class="fa fa-clock-o" style="color:orange;"></i> : ใช้วันที่และเวลาปัจจุบัน
     - <i class="fa fa-calculator" style="color:orange;"></i> : คำนวนจากค่าที่เกี่ยวข้อง เช่น MAP จาก SBP และ DBP
-    - <i class="fa fa-flask" style="color:orange;"></i> : ค้นหารายการ Lab ที่ต้องการใช้
+    - <i class="fa fa-flask" style="color:orange;"></i> : ค้นหารายการ Lab ที่ต้องการใช้ค่า WBC และ Band
     - <i class="fa fa-trash" style="color:red;"></i> `ลบ` : ลบรายการนี้
     - <i class="fa fa-save" style="color:orange;"></i> `บันทึก` : บันทึกรายการ
     - <i class="fa fa-times" style="color:orange;"></i> `ยกเลิก` : ยกเลิกการแก้ไข
+
+อ่านข้อมูลเพิ่มเติม ได้ที่ [บันทึกสัญญาณชีพ (Vital Sign)](../shared/vital-sign.md)
