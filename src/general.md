@@ -90,10 +90,10 @@
 * [Report Designer](extra/report-designer.md) : โปรแกรมสำหรับทดสอบการสร้างรายงานต่างๆ
 * [Image Cache](extra/image.md) : แสดงรายการรูปภาพ ที่อุปกรณ์นี้เคยถ่ายรูปไว้
 
-### เมนู <i class="fa fa-envelope"></i>
+### เมนู <i class="far fa-envelope"></i>
 [ระบบข้อความ](extra/message.md)
 
-### เมนู <i class="fa fa-pencil"></i>
+### เมนู <i class="fas fa-marker"></i>
 [ระบบจัดการ รคส](extra/order-as.md)
 
 ### เมนู `ชื่อผู้ใช้งาน`  

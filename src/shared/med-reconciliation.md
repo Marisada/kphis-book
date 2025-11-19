@@ -8,13 +8,13 @@
 ![Med Rec New](images/med-rec-new.webp)
 
 สามารถทำได้ 3 วิธี ได้แก่
-1. `เลือกจากรายการในอดีต (Remed)`: ด้วยการคลิกที่ปุ่ม <i class="fa fa-plus" style="color:orange;"></i>`Remed` ระบบจะแสดงหน้าต่างรายการดังรูป
+1. `เลือกจากรายการในอดีต (Remed)`: ด้วยการคลิกที่ปุ่ม <i class="fas fa-plus" style="color:orange;"></i>`Remed` ระบบจะแสดงหน้าต่างรายการดังรูป
 ![Med Rec New](images/med-rec-remed.webp)
 
 เลือก `Visit` ที่ต้องการ แล้วจึงคลิกเลือกรายการยาที่ต้องการ รายการยาจะไปแสดงในตาราง `Selected` ทางด้านขวา หรือหากคลิกซ้ำ ระบบจะยกเลิกรายการนั้นๆ ให้  
-หากเลือกเรียบร้อยแล้ว ให้กดปุ่ม <i class="fa fa-plus" style="color:orange;"></i> `Add` ระบบจะเพิ่มรายการที่เลือกไว้ให้
-2. `เพิ่มยาที่มีใน รพ.`: ด้วยการคลิกที่ <i class="fa fa-plus"></i> <i class="fa fa-search"></i> เพื่อเลือกรายการยา, กรอกข้อมูลอื่นจนครบถ้วน แล้วคลิกที่ <i class="fa fa-plus" style="color:orange;"></i> `Add Item`
-3. `เพิ่มยาที่ไม่มีใน รพ.`: ด้วยการกรอก `ชื่อยา` ในกล่อง `ยาเดิมผู้ป่วย`, กรอกข้อมูลอื่นจนครบถ้วน แล้วคลิกที่ <i class="fa fa-plus" style="color:orange;"></i> `Add Item`
+หากเลือกเรียบร้อยแล้ว ให้กดปุ่ม <i class="fas fa-plus" style="color:orange;"></i> `Add` ระบบจะเพิ่มรายการที่เลือกไว้ให้
+2. `เพิ่มยาที่มีใน รพ.`: ด้วยการคลิกที่ <i class="fas fa-plus"></i> <i class="fas fa-magnifying-glass"></i> เพื่อเลือกรายการยา, กรอกข้อมูลอื่นจนครบถ้วน แล้วคลิกที่ <i class="fas fa-plus" style="color:orange;"></i> `Add Item`
+3. `เพิ่มยาที่ไม่มีใน รพ.`: ด้วยการกรอก `ชื่อยา` ในกล่อง `ยาเดิมผู้ป่วย`, กรอกข้อมูลอื่นจนครบถ้วน แล้วคลิกที่ <i class="fas fa-plus" style="color:orange;"></i> `Add Item`
 
 ## การแก้ไขโดยเจ้าหน้าที่ หรือเภสัชกร
 ![Med Rec New](images/med-rec-pharm.webp)

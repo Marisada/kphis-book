@@ -7,7 +7,7 @@
     * ตารางแสดงสัญญาณชีพ : แสดงสัญญาณชีพ เรียงจากวัน-เวลาล่าสุด ลงไปตามลำดับ 
         - คลิกที่ปุ่มรายการ เช่น `BT`, `PR`, `RR`, `SBP` เหนือตาราง เพื่อกรองสัญญาณชีพที่ต้องการได้
         - คลิกที่รายการสัญญาณชีพ เพื่อเลือกแก้ไขสัญญาณชีพ
-        - คลิกที่ `คัดลอก/อ่าน` <i class="fa fa-commenting-o" style="color:orange;"></i> เพื่อคัดลอกลง Clipboard และสามารถ วาง(Paste) ในโปรแกรมอื่นได้
+        - คลิกที่ `คัดลอก/อ่าน` <i class="fa-regular fa-comment-dots" style="color:orange;"></i> เพื่อคัดลอกลง Clipboard และสามารถ วาง(Paste) ในโปรแกรมอื่นได้
 
     ตัวอย่างหน้าต่างสัญญาณชีพปกติ
 
@@ -18,13 +18,13 @@
     ![Vital Sign Labour](images/vs-labour.webp)
 
 2. `บันทึกสัญญาณชีพ` : ที่ด้านขวาของระบบ (เฉพาะผู้มีสิทธิ์)
-    - <i class="fa fa-plus" style="color:orange;"></i> `เพิ่ม` : เพิ่มรายการใหม่
-    - <i class="fa fa-clock-o" style="color:orange;"></i> : ใช้วันที่และเวลาปัจจุบัน
-    - <i class="fa fa-calculator" style="color:orange;"></i> : คำนวนจากค่าที่เกี่ยวข้อง เช่น MAP จาก SBP และ DBP
-    - <i class="fa fa-flask" style="color:orange;"></i> : ค้นหารายการ Lab ที่ต้องการใช้ค่า WBC และ Band
-    - <i class="fa fa-trash" style="color:red;"></i> `ลบ` : ลบรายการนี้
-    - <i class="fa fa-save" style="color:orange;"></i> `บันทึก` : บันทึกรายการ
-    - <i class="fa fa-times" style="color:orange;"></i> `ยกเลิก` : ยกเลิกการแก้ไข
+    - <i class="fas fa-plus" style="color:orange;"></i> `เพิ่ม` : เพิ่มรายการใหม่
+    - <i class="fa-regular fa-clock" style="color:orange;"></i> : ใช้วันที่และเวลาปัจจุบัน
+    - <i class="fas fa-calculator" style="color:orange;"></i> : คำนวนจากค่าที่เกี่ยวข้อง เช่น MAP จาก SBP และ DBP
+    - <i class="fas fa-flask" style="color:orange;"></i> : ค้นหารายการ Lab ที่ต้องการใช้ค่า WBC และ Band
+    - <i class="fa-regular fa-trash-can" style="color:red;"></i> `ลบ` : ลบรายการนี้
+    - <i class="fa-regular fa-floppy-disk" style="color:orange;"></i> `บันทึก` : บันทึกรายการ
+    - <i class="fas fa-xmark" style="color:orange;"></i> `ยกเลิก` : ยกเลิกการแก้ไข
 
     รูปแสดงกล่องบันทึกสัญญาณชีพ ทั้ง 7 กล่อง
 

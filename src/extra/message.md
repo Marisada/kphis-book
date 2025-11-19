@@ -1,9 +1,9 @@
 # ระบบข้อความ
-แสดงจำนวนข้อความใหม่ที่ยังไม่ได้อ่าน เหนือรูปจดหมาย <i class="fa fa-envelope"></i> ที่เมนูด้านขวา ใกล้กับชื่อผู้ใช้
+แสดงจำนวนข้อความใหม่ที่ยังไม่ได้อ่าน เหนือรูปจดหมาย <i class="fa-regular fa-envelope"></i> ที่เมนูด้านขวา ใกล้กับชื่อผู้ใช้
 
 ![Message Badge](images/message-badge.webp)
 
-เมื่อคลิกที่เมนูรูปจดหมาย <i class="fa fa-envelope"></i> จะมีเมนูย่อย ได้แก่
+เมื่อคลิกที่เมนูรูปจดหมาย <i class="fa-regular fa-envelope"></i> จะมีเมนูย่อย ได้แก่
 
 ![Message Menu](images/message-menu.webp)
 
@@ -11,14 +11,14 @@
 * `หอผู้ป่วย` : กล่องจดหมาย ถึงหอผู้ป่วยที่ท่านลงทะเบียนไว้
 * `แผนก` : กล่องจดหมาย ถึงแผนกที่ท่านลงทะเบียนไว้
 * `ส่วนตัว` : กล่องจดหมาย ถึงท่านโดยเฉพาะ
-* <i class="fa fa-pencil-square-o" style="color:orange;"></i> : เขียนข้อความใหม่
-* <i class="fa fa-cog" style="color:orange;"></i> : ตั้งค่าการรับข่าวสาร
+* <i class="fa-regular fa-pen-to-square" style="color:orange;"></i> : เขียนข้อความใหม่
+* <i class="fas fa-gear" style="color:orange;"></i> : ตั้งค่าการรับข่าวสาร
 
 ## การตั้งค่า
 ![Message Gear](images/message-gear.webp)
 
 * เลือกหอผู้ป่วย และแผนก ที่ท่านต้องการรับข่าวสาร (เลือกได้หลายหอผู้ป่วย/แผนก)
-* กดปุ่ม <i class="fa fa-save" style="color:orange;"></i> `บันทึก`
+* กดปุ่ม <i class="fa-regular fa-floppy-disk" style="color:orange;"></i> `บันทึก`
 
 <div class="warning">
 
@@ -50,28 +50,27 @@
 
 <div class="warning">
 
-ปุ่ม <i class="fa fa-magic" style="color:orange;"></i> ในการแนบ URL  
+ปุ่ม <i class="fas fa-wand-magic-sparkles" style="color:orange;"></i> ในการแนบ URL  
 จะสำเนาที่ตั้ง (URL) ปัจจุบันของโปรแกรม ให้โดยอัตโนมัติ
 </div>
 
 ## การจัดการข้อความ
 ![Message Messages](images/message-messages.webp)
 
-* <i class="fa fa-envelope" style="color:red;"></i> : ข้อความที่ `ยังไม่ได้อ่าน`
-* <i class="fa fa-envelope" style="color:orange;"></i> : ข้อความที่ `อ่านแล้ว`
+* <i class="fa-regular fa-envelope" style="color:red;"></i> : ข้อความที่ `ยังไม่ได้อ่าน`
+* <i class="fa-regular fa-envelope" style="color:orange;"></i> : ข้อความที่ `อ่านแล้ว`
 * `GO` : ไปยัง URL ที่แนบ
-* <i class="fa fa-reply" style="color:orange;"></i> : ตอบกลับ
-* <i class="fa fa-check-circle-o" style="color:orange;"></i> : กำหนดว่า `อ่านแล้ว`
+* <i class="fas fa-reply" style="color:orange;"></i> : ตอบกลับ
+* <i class="fa-regular fa-circle-check" style="color:orange;"></i> : กำหนดว่า `อ่านแล้ว`
 
 ปุ่มด้านล่าง
-* <i class="fa fa-check-circle-o" style="color:orange;"></i> `ทั้งหมด` : กำหนดว่า `อ่านแล้ว` ทั้งหมดทุกหัวข้อ
-* <i class="fa fa-pencil" style="color:orange;"></i> `รคส` : เปิดหน้าต่าง ยืนยันการ รคส (สำหรับแพทย์)
-* <i class="fa fa-check-circle-o" style="color:orange;"></i> `ประกาศ` : กำหนดว่า `อ่านแล้ว` ทั้งหมดในหัวข้อ `ประกาศ`
-* <i class="fa fa-refresh" style="color:orange;"></i> `ย้อนหลัง..` : โหลดข้อความเก่า
+* <i class="fa-regular fa-circle-check" style="color:orange;"></i> `ทั้งหมด` : กำหนดว่า `อ่านแล้ว` ทั้งหมดทุกหัวข้อ
+* <i class="fa-regular fa-circle-check" style="color:orange;"></i> `ประกาศ` : กำหนดว่า `อ่านแล้ว` ทั้งหมดในหัวข้อ `ประกาศ`
+* <i class="fas fa-arrows-rotate" style="color:orange;"></i> `ย้อนหลัง..` : โหลดข้อความเก่า
 
 <div class="warning">
 
-การกดปุ่ม `GO` หรือ ตอบกลับด้วยปุ่ม <i class="fa fa-reply" style="color:orange;"></i>  
+การกดปุ่ม `GO` หรือ ตอบกลับด้วยปุ่ม <i class="fas fa-reply" style="color:orange;"></i>  
 จะถือว่า `อ่านแล้ว` โดยอัตโนมัติ
 </div>
 

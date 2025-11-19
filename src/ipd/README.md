@@ -9,7 +9,7 @@
 1. สร้างชุดรับใหม่ ใน KPHIS ก่อน `Admit` ใน HOSxP
     * เปิดเมนู `รอ Admit`
     * กดปุ่ม `เพิ่มใบ Order ใหม่`
-    * กดปุ่ม <i class="fa fa-search" style="color:orange;"></i> เพื่อค้นหา Visit ที่ต้องการ แล้วกดปุ่ม `บันทึก`
+    * กดปุ่ม <i class="fas fa-magnifying-glass" style="color:orange;"></i> เพื่อค้นหา Visit ที่ต้องการ แล้วกดปุ่ม `บันทึก`
     * เลือกผู้ป่วยที่ต้องการ เพื่อ [บันทึกประวัติและตรวจร่างกายแรกรับ](admission-note-dr.md) และ [บันทึกคำสั่งแพทย์](order.md) ต่อไป
     * บันทึก `Admit` ใน HOSxP
 
@@ -78,4 +78,4 @@
 - สร้าง [Order ล่วงหน้า](pre-order.md) ประเภท `Admit ล่วงหน้า`
 - เมื่อถึงวันนัด ให้เปิด `Visit` ตามปกติ
 - ดำเนินการในระบบ [แรกรับ](#แรกรับ)
-- เลือกผู้ป่วย <i class="fa fa-arrow-circle-right"></i> กดปุ่ม [Order](order.md) <i class="fa fa-arrow-circle-right"></i> กดปุ่ม `เลือกใบ Order` <i class="fa fa-arrow-circle-right"></i> กดปุ่ม `ใช้งาน`
+- เลือกผู้ป่วย <i class="fas fa-circle-arrow-right"></i> กดปุ่ม [Order](order.md) <i class="fas fa-circle-arrow-right"></i> กดปุ่ม `เลือกใบ Order` <i class="fas fa-circle-arrow-right"></i> กดปุ่ม `ใช้งาน`

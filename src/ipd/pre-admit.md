@@ -15,6 +15,6 @@
 
 ![Pre Order New](images/pre-admit-new.webp)
 
-* กดปุ่ม <i class="fa fa-search" style="color:orange;"></i> เพื่อค้นหาผู้ป่วยที่ต้องการ
+* กดปุ่ม <i class="fas fa-magnifying-glass" style="color:orange;"></i> เพื่อค้นหาผู้ป่วยที่ต้องการ
 * กดปุ่ม `บันทึก`
 * รายชื่อผู้ป่วยจะปรากฎในตาราง ท่านสามารถคลิกที่ชื่อผู้ป่วย เพื่อสร้าง [บันทึกคำสั่งแพทย์](order.md) และบันทึก [บันทึกประวัติและตรวจร่างกายแรกรับ](admission-note-dr.md) ได้

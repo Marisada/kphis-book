@@ -1,5 +1,10 @@
 [book]
-authors = ["Marisada"]
-language = "en"
-src = "src"
 title = "KPHIS BOOK"
+authors = ["Marisada"]
+description = "คู่มือการใช้งาน KPHIS ฉบับปรับปรุง"
+language = "th"
+src = "src"
+text-direction = "ltr"
+
+[rust]
+edition = "2024"

@@ -2,7 +2,7 @@
 ประกอบด้วย
 
 * `PROBLEM LIST`: ระบบจะดึง Problem list ที่บันทึกใน Progress Note ในใบคำสั่งแพทย์ทั้งหมดมาให้
-* `LAB ALERT`: แสดงเฉพาะ ผลการตรวจทางห้องปฏิบัติการที่ตรงกับ เงื่อนไข <i class="fa fa-commenting-o"></i> 
+* `LAB ALERT`: แสดงเฉพาะ ผลการตรวจทางห้องปฏิบัติการที่ตรงกับ เงื่อนไข <i class="fa-regular fa-comment-dots"></i> 
 * `NOTES`: สำหรับบันทึกการสื่อสาร ระหว่าง แพทย์ และ Coder/Auditor
 
     ![IPD Summary Head](images/ipd-summary-heads.webp)
