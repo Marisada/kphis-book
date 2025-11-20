@@ -6,7 +6,7 @@
 * [Order & Index](../shared/order.md) : บันทึก Order และ Progress Note
 * [Vital Sign](../shared/vital-sign.md) : บันทึก Vital Sign, แสดงกราฟสัญญาณชีพ
 * [I/O](../shared/io.md) : บันทึกสมดุลน้ำ
-* [Nursing Progress Note](../shared/focus-note.md) : แสดงความก้าวหน้าทางการพยาบาล, [บันทึกปัญหาทางการพยาบาล (Focus List)](../shared/focus-list.md), [บันทึกความก้าวหน้าทางการพยาบาล (Nurse Note)](..shared/focus-note.md) และ [บันทึกแผนการจำหน่าย (Discharge Plan)](../shared/discharge-plan.md)
+* `Nursing Progress Note` : ประกอบด้วย [บันทึกปัญหาทางการพยาบาล (Focus List)](../shared/focus-list.md), [บันทึกความก้าวหน้าทางการพยาบาล (Nurse Note)](..shared/focus-note.md) และ [บันทึกแผนการจำหน่าย (Discharge Plan)](../shared/discharge-plan.md)
 * [Nurse Planning](../shared/index-plan.md) : บันทึกแผนและกิจกรรมทางการพยาบาล (Index Plan/Action)
 * [Lab](../shared/lab.md) : แสดงผลการตรวจทางห้องปฏิบัติการ จาก HOSxP
 * [X-Ray <i class="fas fa-up-right-from-square"></i>](../shared/out-source.md) : ไปสู่ระบบ PACs (โปรแกรมภายนอก, ถ้ามี)
