@@ -16,7 +16,7 @@
 ## การใช้งานระบบต่างๆ
 ![Info page](images/info.webp)
 
-ประกอบด้วยเมนูย่อย ได้แก่ `แพทย์`,`พยาบาล`,`เภสัชกร`,`อื่นๆ`,`Setting`,`ข้อความ`, `รคส` และ `ผู้ใช้งาน`
+ประกอบด้วยเมนูย่อย ได้แก่ `แพทย์`,`พยาบาล`,`เภสัชกร`,`อื่นๆ`,`Setting`,`ข้อความ`, `รคส`, `สรุป` และ `ผู้ใช้งาน`
 <!-- ANCHOR: service-visibility -->
 <div class="warning">
 
@@ -83,18 +83,23 @@
 ### เมนู `Setting` 
 ![Setting Menu](images/menu-setting.webp)
 
+* [Drug Information](other/drug-information.md) : กำหนดข้อมูลเวชภัณฑ์ยา ได้แก่ ข้อมูลทั่วไป, เงื่อนไขการใช้ยาอย่างเหมาะสม (DUE) และข้อมูลการบริหารยา การติดตามอาการ การแก้ปัญหาเบื้องต้น (Monitor)
 * [Template Nurse Note](other/template-nurse.md) : สร้าง Template สำหรับการบันทึกทางการพยาบาล (Focus Charting) ตามระบบ Assessment Intervention Evaluation (AIE)
 * [Template D/C Plan](other/template-discharge-plan.md) : สร้าง Template สำหรับการบันทึก Discharge Plan แยกตามการวินิจฉัย
 * [จัดการผู้ใช้งาน](other/user-list.md) : แสดงรายการ `ผู้ใช้งาน` จาก HOSxP และสามารถกำหนด `บทบาท (Role)` ให้กับผู้ใช้งานได้
 * [จัดการบทบาท](other/permission-list.md) : แสดงรายการ `บทบาท (Role)` และสามารถกำหนด `สิทธิ (Permission)` ให้กับบทบาทได้
+* [Report Viewer](extra/report-viewer.md) : โปรแกรมสำหรับแสดงรายงานต่างๆ ในระบบ
 * [Report Designer](extra/report-designer.md) : โปรแกรมสำหรับทดสอบการสร้างรายงานต่างๆ
 * [Image Cache](extra/image.md) : แสดงรายการรูปภาพ ที่อุปกรณ์นี้เคยถ่ายรูปไว้
 
 ### เมนู <i class="far fa-envelope"></i>
 [ระบบข้อความ](extra/message.md)
 
-### เมนู <i class="fas fa-marker"></i>
+### เมนู <i class="fas fa-marker"></i> รคส
 [ระบบจัดการ รคส](extra/order-as.md)
+
+### เมนู <i class="fas fa-clipboard"></i> สรุป
+แจ้งเตือน จำนวนเวชระเบียนที่แพทย์ยังไม่ได้สรุป และเวชระเบียนรอการทบทวนโดยแพทย์
 
 ### เมนู `ชื่อผู้ใช้งาน`  
 ![User Menu](images/menu-user.webp)
@@ -102,6 +107,7 @@
 * `ROLES` : แสดงบทบาทผู้ใช้งาน
 * `Light|Dark|Auto` : เปลี่ยน Theme ของโปรแกรม เป็นแบบ `โทนสีขาว`,`โทนสีดำ`,`ตาม Browser กำหนด`
 * `Wide Screen` : ตั้งค่าการแสดงในจอกว้าง (> 1,750 pixel) สำหรับตารางที่สามารถแสดงในรูปแบบการ์ดผู้ป่วยได้ ให้แสดงแบบ ตาราง (`Table`) หรือ การ์ดผู้ป่วย (`Card`)
+* `2FA` เปิด/ปิด ระบบ Two-Factor Authentication (2FA)
 * `App Data` : ตั้งค่าแหล่งข้อมูลพื้นฐานของโปรแกรม (รายชื่อเจ้าหน้าที่, รายการรหัสโรค, รายชื่อหน่วยบริการ, ฯลฯ) ให้ระบบใช้ข้อมุลจาก เครือข่าย(`Network`) หรือ ข้อมูลสำรองในเครื่อง(`Local`)
 * `Update` : ค้นหาและ Update โปรแกรม 
 * `Clear Caches and Reload` : ล้างโปรแกรมและข้อมูลส่วนบุคคล ออกจากระบบ สู่หน้า [การเข้าสู่ระบบ](#การเขาสูระบบ)

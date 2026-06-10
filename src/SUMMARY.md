@@ -44,6 +44,7 @@
     - [เอกสาร Antibiogram](shared/antibiogram.md)
 
 - [ระบบงานอื่นๆ](other/README.md)
+    - [Drug Information](other/drug-information.md)
     - [Template การบันทึกทางการพยาบาล (Focus Charting)](other/template-nurse.md)
     - [Template Discharge Plan](other/template-discharge-plan.md)
     - [ระบบจัดการผู้ใช้งาน](other/user-list.md)
@@ -51,12 +52,15 @@
 
 - [เครื่องมือ](tool/README.md)
     - [ตัวอย่างรายงาน](tool/document-preview.md)
+
 - [เพิ่มเติมจาก KPHIS ต้นฉบับ](extra/README.md)
-    - [ระบบออกแบบเอกสาร (Report Designer)](extra/report-designer.md)
+    - [ระบบแสดงรายงาน (Report Viewer)](extra/report-viewer.md)
+    - [ระบบออกแบบรายงาน (Report Designer)](extra/report-designer.md)
     - [ระบบรูปภาพ](extra/image.md)
     - [ระบบจัดการ รคส](extra/order-as.md)
     - [ระบบข้อความ](extra/message.md)
     - [ระบบทบทวนเวชระเบียนผู้ป่วยใน (IPD-MRA)](extra/ipd-mra.md)
+    - [ระบบประเมินการให้รหัสโรคผู้ป่วยใน SA/CA (Summary/Coding Audit)](extra/coding-audit.md)
 
 - [วิธีการเขียนต้นฉบับ](howto-contribute.md)
     - [เตรียมพร้อมเขียนหนังสือ](howto-code.md)
