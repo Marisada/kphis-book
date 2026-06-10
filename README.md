@@ -3,7 +3,9 @@
 
 ในปี พ.ศ.2566 รพ.นาดูน จ.มหาสารคาม ได้นำ KPHIS version 24.01.2 มาพัฒนาในรูปแบบ WASM client + REST API ด้วยภาษา [Rust](https://www.rust-lang.org/)
 * `version 0.1.x` : ใช้ User Interface และโครงสร้างฐานข้อมูลเดิม
-* `version 0.2.x` : ปรับปรุง User Interface, เพิ่มการใช้งานใหม่ และเพิ่มโครงสร้างฐานข้อมูลในส่วนที่เกี่ยวข้อง
+* `version 0.2.x` : ปรับปรุงฐานข้อมูล เพิ่มระบบการใช้งานใหม่, ปรับปรุง User Interface
+* `version 0.3.x` : ปรับปรุงฐานข้อมูล ให้สามารถ Admit ใน KPHIS ก่อนใน HOSxP ได้
+* `version 0.4.x` : ปรับปรุงฐานข้อมูล ให้สามารถสร้าง Custom report ได้
 
 ทางทีมงานได้สร้างคู่มือการใช้งานในรูปแบบ Open Source นี้ขึ้น เพื่อเป็นคู่มือในการใช้งานโปรแกรม KPHIS (Server KPHIS ฉบับภาษา Rust ให้บริการทั้ง REST API และคู่มือที่ Build จาก Repository นี้)
 
