@@ -1,18 +1,18 @@
 # บันทึกปัญหาทางการพยาบาล (Focus List)
 
-ในหัวข้อ `Nursing Progress Note` ในแฟ้มผู้ป่วย จะมีหัวข้อย่อย `Add Focus List` สำหรับเพิ่มและแก้ไข Focus List
+ในหัวข้อ `Nursing Progress Note` ในแฟ้มผู้ป่วย จะมีหัวข้อย่อย `Focus List` สำหรับเพิ่มและแก้ไข Focus List
 
 ![Focus List Main](images/focus-list-main.webp)
 
 ประกอบด้วยตัวกรอง ได้แก่
-* `วันที่เริ่มต้นปัญหา`: เลือกช่วงของวันที่ ที่ต้องการแสดง
-* `สถานะ`: เลือกสถานะของ Focus ประกอบด้วย `ทั้งหมด`, `ปัญหายังคงอยู่` และ `ปัญหาหมดไป`
-* `ปุ่มเลือกช่วงเวลา`: เลือกช่วงของวันที่ ด้วยการเลือกวันที่ต้องการ
+* `วันที่เริ่มต้นปัญหา` : เลือกช่วงของวันที่ ที่ต้องการแสดง
+* `สถานะ` : เลือกสถานะของ Focus ประกอบด้วย `ทั้งหมด`, `ปัญหายังคงอยู่` และ `ปัญหาหมดไป`
+* `ปุ่มเลือกช่วงเวลา` : เลือกช่วงของวันที่ ด้วยการเลือกวันที่ต้องการ
 
 และปุ่มเครื่องมือ ได้แก่
-* <i class="fa-regular fa-square-plus" style="color:orange;"></i> `Add focus list`: เพิ่ม Focus ใหม่
-* <i class="fa-regular fa-file-pdf" style="color:orange;"></i> `PDF`: แสดงรายงาน
-* <i class="fa-regular fa-pen-to-square" style="color:orange;"></i>: แก้ไข Focus
+* <i class="fa-regular fa-square-plus" style="color:orange;"></i> `Add focus list` : เพิ่ม Focus ใหม่
+* <i class="fa-regular fa-file-pdf" style="color:orange;"></i> `PDF` : แสดงรายงาน
+* <i class="fa-regular fa-pen-to-square" style="color:orange;"></i> : แก้ไข Focus
 
 ## การเพิ่ม/แก้ไข Focus
 ![Focus List Edit](images/focus-list-edit.webp)

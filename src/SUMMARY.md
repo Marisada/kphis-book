@@ -34,8 +34,8 @@
     - [บันทึกสัญญาณชีพ (Vital Sign)](shared/vital-sign.md)
     - [บันทึกปัญหาทางการพยาบาล (Focus List)](shared/focus-list.md)
     - [บันทึกความก้าวหน้าทางการพยาบาล (Nurse Note)](shared/focus-note.md)
-    - [บันทึกแผนและกิจกรรมทางการพยาบาล (Index Plan/Action)](shared/index-plan.md)
     - [บันทึกแผนการจำหน่าย (Discharge Plan)](shared/discharge-plan.md)
+    - [บันทึกแผนและกิจกรรมทางการพยาบาล (Index Plan/Action)](shared/index-plan.md)
     - [บันทึกสมดุลน้ำ (Intake-Output: I/O)](shared/io.md)
     - [เวชระเบียนอิเล็กทรอนิกส์ (Electronic Medical Record: EMR)](shared/emr.md)
     - [ระบบ Screen ใบสั่งยา และค้นประวัติการสั่งยาใน HOSxP](shared/prescription-screen.md)
@@ -44,7 +44,6 @@
     - [เอกสาร Antibiogram](shared/antibiogram.md)
 
 - [ระบบงานอื่นๆ](other/README.md)
-    - [Drug Information](other/drug-information.md)
     - [Template การบันทึกทางการพยาบาล (Focus Charting)](other/template-nurse.md)
     - [Template Discharge Plan](other/template-discharge-plan.md)
     - [ระบบจัดการผู้ใช้งาน](other/user-list.md)
@@ -61,10 +60,8 @@
     - [ระบบข้อความ](extra/message.md)
     - [ระบบทบทวนเวชระเบียนผู้ป่วยใน (IPD-MRA)](extra/ipd-mra.md)
     - [ระบบประเมินการให้รหัสโรคผู้ป่วยใน SA/CA (Summary/Coding Audit)](extra/coding-audit.md)
+    - [ระบบข้อมูลยา (Drug information)](extra/drug-information.md)
 
 - [วิธีการเขียนต้นฉบับ](howto-contribute.md)
     - [เตรียมพร้อมเขียนหนังสือ](howto-code.md)
-    - [ภาษา Markdown บน mdBook](markdown.md)
-
----
-[ผู้ให้การสนับสนุน](contributors.md)
+    - [ภาษา Markdown กับ mdBook](markdown.md)

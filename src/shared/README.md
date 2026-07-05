@@ -5,6 +5,7 @@
 * [บันทึกสัญญาณชีพ (Vital Sign)](vital-sign.md)
 * [บันทึกปัญหาทางการพยาบาล (Focus List)](focus-list.md)
 * [บันทึกความก้าวหน้าทางการพยาบาล (Nurse Note)](focus-note.md)
+* [บันทึกแผนการจำหน่าย (Discharge Plan)](discharge-plan.md)
 * [บันทึกแผนและกิจกรรมทางการพยาบาล (Index Plan/Action)](index-plan.md)
 * [บันทึกสมดุลน้ำ (Intake-Output: I/O)](io.md)
 * [เวชระเบียนอิเล็กทรอนิกส์ (Electronic Medical Record: EMR)](emr.md)

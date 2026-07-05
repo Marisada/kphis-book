@@ -1,10 +1,10 @@
 [book]
-title = "KPHIS BOOK"
-authors = ["Marisada"]
-description = "คู่มือการใช้งาน KPHIS ฉบับปรับปรุง"
+title = "KPHIS-RS BOOK"
+authors = ["Marisada Pitakthum"]
+description = "คู่มือการใช้งาน KPHIS-RS"
 language = "th"
 src = "src"
 text-direction = "ltr"
 
 [rust]
-edition = "2021"
+edition = "2024"

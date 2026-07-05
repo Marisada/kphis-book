@@ -13,4 +13,4 @@
 
 ## คู่มือการเขียน (ภาษาไทย)
 - [เตรียมพร้อมเขียนหนังสือ](howto-code.md)
-- [ภาษา Markdown บน mdBook](markdown.md)
+- [ภาษา Markdown กับ mdBook](markdown.md)

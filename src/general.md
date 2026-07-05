@@ -16,7 +16,7 @@
 ## การใช้งานระบบต่างๆ
 ![Info page](images/info.webp)
 
-ประกอบด้วยเมนูย่อย ได้แก่ `แพทย์`,`พยาบาล`,`เภสัชกร`,`อื่นๆ`,`Setting`,`ข้อความ`, `รคส`, `สรุป` และ `ผู้ใช้งาน`
+ประกอบด้วยเมนูย่อย ได้แก่ `แพทย์`,`พยาบาล`,`เภสัชกร`,`อื่นๆ`,`Setting`,`ข้อความ`, `Drug information`, `รคส`, `สรุป` และ `ผู้ใช้งาน`
 <!-- ANCHOR: service-visibility -->
 <div class="warning">
 
@@ -83,7 +83,7 @@
 ### เมนู `Setting` 
 ![Setting Menu](images/menu-setting.webp)
 
-* [Drug Information](other/drug-information.md) : กำหนดข้อมูลเวชภัณฑ์ยา ได้แก่ ข้อมูลทั่วไป, เงื่อนไขการใช้ยาอย่างเหมาะสม (DUE) และข้อมูลการบริหารยา การติดตามอาการ การแก้ปัญหาเบื้องต้น (Monitor)
+* [Drug Information](extra/drug-information.md) : กำหนดข้อมูลเวชภัณฑ์ยา ได้แก่ ข้อมูลทั่วไป, เงื่อนไขการใช้ยาอย่างเหมาะสม (DUE) และข้อมูลการบริหารยา การติดตามอาการ การแก้ปัญหาเบื้องต้น (Monitor)
 * [Template Nurse Note](other/template-nurse.md) : สร้าง Template สำหรับการบันทึกทางการพยาบาล (Focus Charting) ตามระบบ Assessment Intervention Evaluation (AIE)
 * [Template D/C Plan](other/template-discharge-plan.md) : สร้าง Template สำหรับการบันทึก Discharge Plan แยกตามการวินิจฉัย
 * [จัดการผู้ใช้งาน](other/user-list.md) : แสดงรายการ `ผู้ใช้งาน` จาก HOSxP และสามารถกำหนด `บทบาท (Role)` ให้กับผู้ใช้งานได้
@@ -92,14 +92,17 @@
 * [Report Designer](extra/report-designer.md) : โปรแกรมสำหรับทดสอบการสร้างรายงานต่างๆ
 * [Image Cache](extra/image.md) : แสดงรายการรูปภาพ ที่อุปกรณ์นี้เคยถ่ายรูปไว้
 
-### เมนู <i class="far fa-envelope"></i>
-[ระบบข้อความ](extra/message.md)
+### เมนู <i class="fas fa-pills"></i>
+เปิดหน้าต่างสำหรับค้นหาข้อมูลเวชภัณฑ์
 
 ### เมนู <i class="fas fa-marker"></i> รคส
 [ระบบจัดการ รคส](extra/order-as.md)
 
 ### เมนู <i class="fas fa-clipboard"></i> สรุป
 แจ้งเตือน จำนวนเวชระเบียนที่แพทย์ยังไม่ได้สรุป และเวชระเบียนรอการทบทวนโดยแพทย์
+
+### เมนู <i class="far fa-envelope"></i>
+[ระบบข้อความ](extra/message.md)
 
 ### เมนู `ชื่อผู้ใช้งาน`  
 ![User Menu](images/menu-user.webp)
